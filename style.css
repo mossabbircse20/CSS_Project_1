@@ -484,7 +484,7 @@
 .herosection6 {
     height: 400px;
     width: 1000px;
-    background-image: url(/assets/handshake.jpg);
+    background-image: url(./assets/handshake.jpg);
     background-size: cover;
     color: white;
     margin-left: auto;
