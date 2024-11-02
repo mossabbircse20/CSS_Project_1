@@ -46,7 +46,7 @@
 
 .herosection1 {
     height: 500px;
-    background-image: url(/assets/Hero-bg.png);
+    background-image: url(./assets/Hero-bg.png);
     background-size: cover;
     border: 1px solid black;
     display: flex;
@@ -485,6 +485,7 @@
     height: 400px;
     width: 1000px;
     background-image: url(./assets/handshake.jpg);
+    background-blend-mode: overlay;
     background-size: cover;
     color: white;
     margin-left: auto;
