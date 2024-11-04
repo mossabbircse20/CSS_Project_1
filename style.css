@@ -90,10 +90,16 @@
     margin-top: 40px;
 }
 
+.herosection1 button a {
+    text-decoration: none;
+    color: white;
+}
+
+
 .herosection1 button:hover {
     cursor: pointer;
     border: 1px solid #387478;
-    background-color: white;
+    background-color: #243642;
     color: #387478;
 } 
 
